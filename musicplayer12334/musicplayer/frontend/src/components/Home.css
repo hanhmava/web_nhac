@@ -1,0 +1,45 @@
+const styles = `
+.home-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.card {
+  text-align: center;
+  width: 150px;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bxh {
+  margin-top: 20px;
+}
+
+.bxh ol {
+  padding-left: 20px;
+}
+
+.bxh li {
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+h3 {
+  margin-top: 10px;
+}
+`};
